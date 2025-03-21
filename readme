@@ -1,0 +1,24 @@
+  ACM registration utility
+     v1.4 for Fallout 2
+ (c) 2001-2004 ABel [TeamX]
+============================
+
+*** What is this for ***
+This program updates SNDLIST.LST file with information about new and
+changed ACM-files in <Fallout2 installation dir>\DATA\SOUND\SFX.
+
+*** Alternatives ***
+The BIS Mapper2 can rebuild the SNDLIST.LST, if it is deleted (both from
+master.dat and from disk). The Fallout2 also recreates the list file, but it
+inserts zeros instead of sequential file-tags.
+
+*** Installation ***
+Just extract REGSND.EXE, and SNDLIST.LST file (it is located in
+MASTER.DAT archive) into <Fallout2 installation dir>\DATA\SOUND\SFX
+directory.
+
+*** Distribution ***
+Free, source code included.
+
+*** Feedback ***
+Please, report errors to abel@krasu.ru or return0@pisem.net
